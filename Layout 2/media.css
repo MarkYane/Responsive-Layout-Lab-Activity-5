@@ -1,0 +1,124 @@
+/* Media query for Phone */
+
+@media (max-width: 767px) {
+ 
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+  div{
+    font-size: 1.3rem;
+  }
+  .nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+  }
+  .container{
+    display: flex;
+    margin-bottom: 5px;
+    height: 78vh;
+  }
+
+  .content-A{
+    margin-right: 5px;
+    flex-grow: 1;
+    border: 1px solid black;
+  }
+
+  .content-B{
+    margin-left: 5px;
+    flex-grow: 1;
+    border: 1px solid black;
+  }
+  footer{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+}
+ 
+ /* Media query for tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+  div{
+    font-size: 1.3rem;
+  }
+  .nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+  }
+  .container{
+    display: flex;
+    margin-bottom: 5px;
+    height: 78vh;
+  }
+
+  .content-A{
+    margin-right: 5px;
+    flex-grow: 1;
+    border: 1px solid black;
+  }
+
+  .content-B{
+    margin-left: 5px;
+    flex-grow: 1;
+    border: 1px solid black;
+  }
+  footer{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+}
+
+/* Media query for laptops */
+@media (min-width: 1024px) {
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+  div{
+    font-size: 1.3rem;
+  }
+  .nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+  }
+  .container{
+    display: flex;
+    margin-bottom: 5px;
+    height: 78vh;
+  }
+
+  .content-A{
+    margin-right: 5px;
+    flex-grow: 1;
+    border: 1px solid black;
+  }
+
+  .content-B{
+    margin-left: 5px;
+    flex-grow: 1;
+    border: 1px solid black;
+  }
+  footer{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+}

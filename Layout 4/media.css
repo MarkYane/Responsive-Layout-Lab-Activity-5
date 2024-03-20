@@ -1,0 +1,335 @@
+@media (max-width: 499px) and (min-width: 353px){
+
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.0rem;
+    border: 1px solid black;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  div{
+    font-size: 1rem;
+  }
+  .nav{
+    border: 1px solid black;
+    font-size: 1.0rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .outer-container{
+    font-size: 1.5rem;
+    display: flex;
+    margin-bottom: 5px;
+    height: 85vh;
+
+  }
+  .main-content{
+    border: 1px solid black;
+    width: 50%;
+  }
+  .inner-container{
+    border: 1px solid black;
+    font-size: 0.5rem;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .picture{
+    margin: 4px 4px 4px 4px;
+    width: 30.8%;
+    border: 1px solid black;
+  }
+
+  .about-me{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 58%;
+  }
+
+  .recent-tweets{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  footer{
+  font-size: 1rem;
+   border: 1px solid black;
+  }
+}
+
+/* Media query for Phone */
+@media (max-width: 618px) and (min-width:500px){
+
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.1rem;
+    border: 1px solid black;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  div{
+    font-size: 1rem;
+  }
+
+  .nav{
+    border: 1px solid black;
+    font-size: 1.1rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .outer-container{
+    font-size: 1.5rem;
+    display: flex;
+    margin-bottom: 5px;
+    height: 83.5vh;
+
+  }
+  .main-content{
+    border: 1px solid black;
+    width: 50%;
+  }
+  .inner-container{
+    border: 1px solid black;
+    font-size: 0.5rem;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .picture{
+    margin: 4px 4px 4px 4px;
+    width: 35.5%;
+    border: 1px solid black;
+  }
+
+  .about-me{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 56%;
+  }
+
+  .recent-tweets{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  footer{
+  font-size: 1.1rem;
+   border: 1px solid black;
+  }
+}
+
+@media (max-width: 767px) and (min-width:619px){
+
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.2rem;
+    border: 1px solid black;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  div{
+    font-size: 1rem;
+  }
+
+  .nav{
+    border: 1px solid black;
+    font-size: 1.2rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .outer-container{
+    font-size: 1.5rem;
+    display: flex;
+    margin-bottom: 5px;
+    height: 82.5vh;
+
+  }
+  .main-content{
+    border: 1px solid black;
+    width: 50%;
+  }
+  .inner-container{
+    border: 1px solid black;
+    font-size: 0.5rem;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .picture{
+    margin: 4px 4px 4px 4px;
+    width: 35.5%;
+    border: 1px solid black;
+  }
+
+  .about-me{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 58%;
+  }
+
+  .recent-tweets{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  footer{
+  font-size: 1.2rem;
+   border: 1px solid black;
+  }
+}
+ 
+ /* Media query for tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.3rem;
+    border: 1px solid black;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  div{
+    font-size: 1.3rem;
+  }
+
+  .nav{
+    border: 1px solid black;
+    font-size: 1.1rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .outer-container{
+    font-size: 1.5rem;
+    display: flex;
+    margin-bottom: 5px;
+    height: 82.5vh;
+
+  }
+  .main-content{
+    border: 1px solid black;
+    width: 50%;
+  }
+  .inner-container{
+    border: 1px solid black;
+    font-size: 0.5rem;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .picture{
+    margin: 4px 4px 4px 4px;
+    width: 35.5%;
+    border: 1px solid black;
+  }
+
+  .about-me{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 58%;
+  }
+
+  .recent-tweets{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  footer{
+  font-size: 1.3rem;
+   border: 1px solid black;
+  }
+
+}
+
+@media (min-width: 1024px) {
+  *{
+    text-align: center;
+  }
+
+  header{
+    font-size: 1.5rem;
+    border: 1px solid black;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  div{
+    font-size: 1.3rem;
+  }
+
+  .nav{
+    border: 1px solid black;
+    font-size: 1.3rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .outer-container{
+    font-size: 1.5rem;
+    display: flex;
+    margin-bottom: 5px;
+    height: 80vh;
+  }
+  .main-content{
+    border: 1px solid black;
+    width: 50%;
+  }
+  .inner-container{
+    border: 1px solid black;
+    font-size: 0.5rem;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .picture{
+    margin: 4px 4px 4px 4px;
+    width: 35.5%;
+    border: 1px solid black;
+  }
+
+  .about-me{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 58%;
+  }
+
+  .recent-tweets{
+    margin: 4px 4px 4px 4px;
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  footer{
+  font-size: 1.5rem;
+   border: 1px solid black;
+  }
+}
+ 
+ 
